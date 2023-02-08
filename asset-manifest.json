@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/webgl/static/css/main.77e9e98f.css",
+    "main.js": "/webgl/static/js/main.4873c9cb.js",
+    "static/js/787.072def03.chunk.js": "/webgl/static/js/787.072def03.chunk.js",
+    "static/media/Car_Handle.svg": "/webgl/static/media/Car_Handle.be2a7fd865aa70fd95b7.svg",
+    "static/media/Car_Icon.svg": "/webgl/static/media/Car_Icon.6dc6c14cc0656d75e140.svg",
+    "static/media/Car_Palette.svg": "/webgl/static/media/Car_Palette.daf00c9c35c535464e3c.svg",
+    "static/media/Car_Option.svg": "/webgl/static/media/Car_Option.a7f0d49afb65c4b9fa5b.svg",
+    "static/media/Car_Light.svg": "/webgl/static/media/Car_Light.6eb76ca700aaaa7c9768.svg",
+    "static/media/mouseLeftClick.svg": "/webgl/static/media/mouseLeftClick.a5768140dfc5cd243e9d.svg",
+    "static/media/mouseRightClick.svg": "/webgl/static/media/mouseRightClick.eea0af245f625fd9a52c.svg",
+    "static/media/mouseWheel.svg": "/webgl/static/media/mouseWheel.754bed9b9bd96799f88e.svg",
+    "index.html": "/webgl/index.html",
+    "main.77e9e98f.css.map": "/webgl/static/css/main.77e9e98f.css.map",
+    "main.4873c9cb.js.map": "/webgl/static/js/main.4873c9cb.js.map",
+    "787.072def03.chunk.js.map": "/webgl/static/js/787.072def03.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77e9e98f.css",
+    "static/js/main.4873c9cb.js"
+  ]
+}
